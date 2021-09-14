@@ -27,14 +27,14 @@ Updated to v8.1.4:
 					<Item subMenuId="file-closeMore"            name="Управление вкладками..."/>
 					<Item subMenuId="file-recentFiles"          name="Последние файлы"/>
 					<Item subMenuId="edit-insert"               name="Вставка"/>
-					<Item subMenuId="edit-copyToClipboard"      name="Копировать в &amp;Буфер..."/>
+					<Item subMenuId="edit-copyToClipboard"      name="Копировать в &amp;буфер обмена..."/>
 					<Item subMenuId="edit-indent"               name="Отступы (табуляция)"/>
-					<Item subMenuId="edit-convertCaseTo"        name="Преобразование Регистра"/>
-					<Item subMenuId="edit-lineOperations"       name="Операции со Строками"/>
+					<Item subMenuId="edit-convertCaseTo"        name="Преобразование регистра"/>
+					<Item subMenuId="edit-lineOperations"       name="Операции со строками"/>
 					<Item subMenuId="edit-comment"              name="Комментирование"/>
-					<Item subMenuId="edit-autoCompletion"       name="Автозавершение Ввода"/>
-					<Item subMenuId="edit-eolConversion"        name="Формат Конца Строк"/>
-					<Item subMenuId="edit-blankOperations"      name="Операции с Пробелами"/>
+					<Item subMenuId="edit-autoCompletion"       name="Автозавершение ввода"/>
+					<Item subMenuId="edit-eolConversion"        name="Преобразование концов строк"/>
+					<Item subMenuId="edit-blankOperations"      name="Операции с пробелами"/>
 					<Item subMenuId="edit-pasteSpecial"         name="Специальная Вставка"/>
 					<Item subMenuId="edit-onSelection"          name="Выделенное"/>
 					<Item subMenuId="search-markAll"            name="Пометить все совпадения"/>
@@ -48,28 +48,28 @@ Updated to v8.1.4:
 					<Item subMenuId="view-showSymbol"           name="Отображение символов"/>
 					<Item subMenuId="view-zoom"                 name="Масштаб текста"/>
 					<Item subMenuId="view-moveCloneDocument"    name="Окно документа"/>
-					<Item subMenuId="view-tab"                  name="Выбор Вкладки..."/>
+					<Item subMenuId="view-tab"                  name="Выбор вкладки..."/>
 					<Item subMenuId="view-collapseLevel"        name="Свернуть уровень"/>
 					<Item subMenuId="view-uncollapseLevel"      name="Развернуть уровень"/>
 					<Item subMenuId="view-project"              name="Проект (панель)"/>
 					<Item subMenuId="encoding-characterSets"    name="Кодировки"/>
-					<Item subMenuId="encoding-arabic"           name="Арабский"/>
-					<Item subMenuId="encoding-baltic"           name="Балтийский"/>
-					<Item subMenuId="encoding-celtic"           name="Кельтский"/>
-					<Item subMenuId="encoding-cyrillic"         name="Кириллица"/>
-					<Item subMenuId="encoding-centralEuropean"  name="Центрально-Европейский"/>
-					<Item subMenuId="encoding-chinese"          name="Китайский"/>
-					<Item subMenuId="encoding-easternEuropean"  name="Восточно-Европейский"/>
-					<Item subMenuId="encoding-greek"            name="Греческий"/>
-					<Item subMenuId="encoding-hebrew"           name="Иврит"/>
-					<Item subMenuId="encoding-japanese"         name="Японский"/>
-					<Item subMenuId="encoding-korean"           name="Корейский"/>
-					<Item subMenuId="encoding-northEuropean"    name="Северо-Европейский"/>
-					<Item subMenuId="encoding-thai"             name="Тайский"/>
-					<Item subMenuId="encoding-turkish"          name="Турецкий"/>
-					<Item subMenuId="encoding-westernEuropean"  name="Западно-Европейский"/>
-					<Item subMenuId="encoding-vietnamese"       name="Вьетнамский"/>
-					<Item subMenuId="language-userDefinedLanguage" name="Польз. Синтаксис"/>
+					<Item subMenuId="encoding-arabic"           name="Арабская"/>
+					<Item subMenuId="encoding-baltic"           name="Балтийская"/>
+					<Item subMenuId="encoding-celtic"           name="Кельтская"/>
+					<Item subMenuId="encoding-cyrillic"         name="Кириллическая"/>
+					<Item subMenuId="encoding-centralEuropean"  name="Центрально-европейская"/>
+					<Item subMenuId="encoding-chinese"          name="Китайская"/>
+					<Item subMenuId="encoding-easternEuropean"  name="Восточно-европейская"/>
+					<Item subMenuId="encoding-greek"            name="Греческая"/>
+					<Item subMenuId="encoding-hebrew"           name="Ивритская"/>
+					<Item subMenuId="encoding-japanese"         name="Японская"/>
+					<Item subMenuId="encoding-korean"           name="Корейская"/>
+					<Item subMenuId="encoding-northEuropean"    name="Северо-европейская"/>
+					<Item subMenuId="encoding-thai"             name="Тайская"/>
+					<Item subMenuId="encoding-turkish"          name="Турецкая"/>
+					<Item subMenuId="encoding-westernEuropean"  name="Западно-европейская"/>
+					<Item subMenuId="encoding-vietnamese"       name="Вьетнамская"/>
+					<Item subMenuId="language-userDefinedLanguage" name="Польз. синтаксис"/>
 					<Item subMenuId="settings-import"           name="Импортировать"/>
 					<Item subMenuId="tools-md5"                 name="MD5"/>
 					<Item subMenuId="tools-sha256"              name="SHA-256"/>
@@ -93,10 +93,10 @@ Updated to v8.1.4:
 					<Item id="41003" name="Закрыть"/>
 					<Item id="41004" name="Закрыть вс&amp;е"/>
 
-					<Item id="41005" name="Закрыть все Кроме Активной"/>
-					<Item id="41009" name="Закрыть все Слева"/>
-					<Item id="41018" name="Закрыть все Справа"/>
-					<Item id="41024" name="Закрыть все Без Изменений"/>
+					<Item id="41005" name="Закрыть все кроме активной"/>
+					<Item id="41009" name="Закрыть все слева"/>
+					<Item id="41018" name="Закрыть все справа"/>
+					<Item id="41024" name="Закрыть все без изменений"/>
 
 					<Item id="41016" name="&amp;Удалить файл (в корзину)"/>
 					<Item id="41012" name="&amp;Загрузить сессию..."/>
@@ -126,12 +126,12 @@ Updated to v8.1.4:
 					<Item id="42030" name="&amp;Имя файла  (в буфер)"/>
 					<Item id="42031" name="Пу&amp;ть к файлу  (в буфер)"/>
 
-					<Item id="42008" name="Вставить Отступ (табуляция)"/>
-					<Item id="42009" name="Убрать Отступ (табуляция)"/>
+					<Item id="42008" name="Вставить отступ (табуляция)"/>
+					<Item id="42009" name="Убрать отступ (табуляция)"/>
 
 					<Item id="42016" name="ПРОПИСНЫЕ"/>
 					<Item id="42017" name="строчные"/>
-					<Item id="42067" name="Все с Заглавной"/>
+					<Item id="42067" name="Все С Заглавной"/>
 					<Item id="42068" name="Все с Заглавной (смешанный)"/>
 					<Item id="42069" name="Предложение"/>
 					<Item id="42070" name="Предложение (смешанный)"/>
@@ -143,12 +143,12 @@ Updated to v8.1.4:
 					<Item id="42077" name="Удалить последовательно дублир. строки"/>
 					<Item id="42012" name="Разбить строки"/>
 					<Item id="42013" name="Объединить строки"/>
-					<Item id="42014" name="Переместить строку Вверх"/>
-					<Item id="42015" name="Переместить строку Вниз"/>
+					<Item id="42014" name="Переместить строку вверх"/>
+					<Item id="42015" name="Переместить строку вниз"/>
 					<Item id="42055" name="Удалить пустые строки"/>
 					<Item id="42056" name="Удалить пустые строки  (содер. символы Пробела)"/>
-					<Item id="42057" name="Вставить пустую строку Перед текущей"/>
-					<Item id="42058" name="Вставить пустую строку После текущей"/>
+					<Item id="42057" name="Вставить пустую строку перед текущей"/>
+					<Item id="42058" name="Вставить пустую строку после текущей"/>
 
 					<Item id="42059" name="Сорт. по возрастанию  (по первой цифре)"/>
 					<Item id="42060" name="Сорт. по убыванию  (по первой цифре)"/>
@@ -178,32 +178,32 @@ Updated to v8.1.4:
 					<Item id="45002" name="Преобразовать в Unix (LF)"/>
 					<Item id="45003" name="Преобразовать в Macintosh (CR)"/>
 
-					<Item id="42024" name="Убрать Замыкающие Пробелы / Табуляции"/>
-					<Item id="42042" name="Убрать Начальные Пробелы / Табуляции"/>
-					<Item id="42043" name="Убрать Начальные и Замыкающие Пробелы / Табуляции"/>
-					<Item id="42044" name="Символы Конца Строки в Пробелы"/>
-					<Item id="42045" name="Убрать лишние Пробелы а Концы Строк в Пробел"/>
-					<Item id="42046" name="Табуляции в Пробелы (все)"/>
-					<Item id="42054" name="Пробелы в Табуляции (все)"/>
-					<Item id="42053" name="Пробелы в Табуляции (в начале строки)"/>
+					<Item id="42024" name="Убрать конечные пробелы / Табуляции"/>
+					<Item id="42042" name="Убрать начальные пробелы / Табуляции"/>
+					<Item id="42043" name="Убрать начальные и конечные пробелы / Табуляции"/>
+					<Item id="42044" name="Знаки конца строки в пробелы"/>
+					<Item id="42045" name="Убрать лишние пробелы а концы строк в пробел"/>
+					<Item id="42046" name="Табуляции в пробелы (все)"/>
+					<Item id="42054" name="Пробелы в табуляции (все)"/>
+					<Item id="42053" name="Пробелы в табуляции (в начале строки)"/>
 
 					<Item id="42038" name="Вставить как HTML"/>
 					<Item id="42039" name="Вставить как RTF"/>
-					<Item id="42048" name="Копировать как Двоичный код"/>
-					<Item id="42049" name="Вырезать как Двоичный код"/>
-					<Item id="42050" name="Вставить как Двоичный код"/>
+					<Item id="42048" name="Копировать как двоичный код"/>
+					<Item id="42049" name="Вырезать как двоичный код"/>
+					<Item id="42050" name="Вставить как двоичный код"/>
 
-					<Item id="42073" name="Открыть Файл"/>
-					<Item id="42074" name="Открыть папку Документа"/>
+					<Item id="42073" name="Открыть файл"/>
+					<Item id="42074" name="Открыть папку документа"/>
 					<Item id="42075" name="Поиск в Интернете"/>
 					<Item id="42076" name="Сменить поисковую систему..."/>
 
-					<Item id="42037" name="Выделение Столбцом..."/>
+					<Item id="42037" name="Выделение столбцом..."/>
 					<Item id="42034" name="Генератор столбца..."/>
 					<Item id="42051" name="Табл&amp;ица символов ASCII"/>
 					<Item id="42052" name="&amp;Панель истории Буфера"/>
-					<Item id="42028" name="&quot;&amp;Только Чтение&quot; файла"/>
-					<Item id="42033" name="&amp;Снять &quot;Только Чтение&quot;"/>
+					<Item id="42028" name="&quot;&amp;Только чтение&quot; файла"/>
+					<Item id="42033" name="&amp;Снять &quot;только чтение&quot;"/>
 
 					<Item id="43001" name="Найти..."/>
 					<Item id="43013" name="Найти в файлах..."/>
@@ -211,8 +211,8 @@ Updated to v8.1.4:
 					<Item id="43010" name="Искать ранее"/>
 					<Item id="43048" name="Искать выделенное далее"/>
 					<Item id="43049" name="Искать выделенное ранее"/>
-					<Item id="43014" name="Искать выделенное далее с Регистром"/>
-					<Item id="43015" name="Искать выделенное ранее с Регистром"/>
+					<Item id="43014" name="Искать выделенное далее с регистром"/>
+					<Item id="43015" name="Искать выделенное ранее с регистром"/>
 					<Item id="43003" name="Замена..."/>
 					<Item id="43011" name="Поиск по мере набора..."/>
 					<Item id="43045" name="Окно результата поиска"/>
@@ -281,11 +281,11 @@ Updated to v8.1.4:
 					<Item id="44009" name="Текстовое поле в размер Окна"/>
 					<Item id="44011" name="Текстовое поле на весь Экран"/>
 
-					<Item id="44025" name="Отображать Пробелы и Табуляции"/>
-					<Item id="44026" name="Отображать символ Конца Строки"/>
+					<Item id="44025" name="Отображать пробелы и табуляции"/>
+					<Item id="44026" name="Отображать знаки конца строк"/>
 					<Item id="44019" name="Отображать все символы"/>
-					<Item id="44020" name="Отображать Направляющие Отступов"/>
-					<Item id="44041" name="Отображать знак Переноса Строк"/>
+					<Item id="44020" name="Отображать направляющие отступов"/>
+					<Item id="44041" name="Отображать знак переноса строк"/>
 
 					<Item id="44023" name="Крупнее    (Ctrl+Кол. Вверх)"/>
 					<Item id="44024" name="Мельче    (Ctrl+Кол. Вниз)"/>
@@ -305,13 +305,13 @@ Updated to v8.1.4:
 					<Item id="44092" name="7-я  вкладка"/>
 					<Item id="44093" name="8-я  вкладка"/>
 					<Item id="44094" name="9-я  вкладка"/>
-					<Item id="44095" name="Следующая Вкладка"/>
-					<Item id="44096" name="Предыдущая Вкладка"/>
-					<Item id="44098" name="Переместить Вкладку Вперёд"/>
-					<Item id="44099" name="Переместить Вкладку Назад"/>
+					<Item id="44095" name="Следующая вкладка"/>
+					<Item id="44096" name="Предыдущая вкладка"/>
+					<Item id="44098" name="Переместить вкладку вперёд"/>
+					<Item id="44099" name="Переместить вкладку назад"/>
 
 					<Item id="44022" name="Перенос строк"/>
-					<Item id="44072" name="Переключиться на Другую Область"/>
+					<Item id="44072" name="Переключиться на другую область"/>
 					<Item id="44042" name="Спрятать выбранные строки"/>
 					<Item id="44010" name="Свернуть все блоки"/>
 					<Item id="44029" name="Развернуть все блоки"/>
@@ -324,17 +324,17 @@ Updated to v8.1.4:
 					<Item id="44083" name="Проект-панель 3"/>
 
 					<Item id="44085" name="Папка как Проект"/>
-					<Item id="44080" name="Карта Документа"/>
-					<Item id="44070" name="Список Документов"/>
-					<Item id="44084" name="Список Функций"/>
+					<Item id="44080" name="Карта документа"/>
+					<Item id="44070" name="Список документов"/>
+					<Item id="44084" name="Список функций"/>
 					<Item id="44035" name="Синхрониз. вертикальную прокрутку"/>
 					<Item id="44036" name="Синхрониз. горизонтальную прокрутку"/>
-					<Item id="42026" name="Текст справа Налево"/>
-					<Item id="42027" name="Текст слева Направо"/>
+					<Item id="42026" name="Текст справа налево"/>
+					<Item id="42027" name="Текст слева направо"/>
 					<Item id="44097" name="Мониторинг (tail -f)"/>
-					<Item id="44212" name="Спрятать Нумерацию Строк"/>
-					<Item id="44213" name="Спрятать поле Закладок"/>
-					<Item id="44214" name="Спрятать поле Границ Блоков"/>
+					<Item id="44212" name="Спрятать нумерацию Строк"/>
+					<Item id="44213" name="Спрятать поле закладок"/>
+					<Item id="44214" name="Спрятать поле границ блоков"/>
 
 					<Item id="45004" name="Кодировка ANSI"/>
 					<Item id="45005" name="Кодировка UTF-8 с BOM"/>
@@ -362,10 +362,10 @@ Updated to v8.1.4:
 
 					<Item id="48011" name="&amp;Настройки..."/>
 					<Item id="46001" name="Определение стилей..."/>
-					<Item id="48009" name="Клавиши Быстрого Доступа..."/>
-					<Item id="48005" name="Импортировать Плагин(ы)"/>
-					<Item id="48006" name="Импортировать Тему(ы)"/>
-					<Item id="48018" name="Редакт. Контекстное Меню"/>
+					<Item id="48009" name="Клавиши быстрого доступа..."/>
+					<Item id="48005" name="Импортировать плагин(ы)"/>
+					<Item id="48006" name="Импортировать тему(ы)"/>
+					<Item id="48018" name="Редакт. Контекстное меню"/>
 
 					<Item id="48501" name="Сгенерировать..."/>
 					<Item id="48502" name="Сгенерировать из файлов..."/>
@@ -451,15 +451,15 @@ Updated to v8.1.4:
 				<Item id="1626" name="Расширенный (\n, \r, \t, \0, \x...)"/>
 				<Item id="1632" name="В выделенном"/>
 				<Item id="1633" name="&amp;Убрать все"/>
-				<Item id="1635" name="Заменить все во Всех Открытых &amp;Документах"/>
-				<Item id="1636" name="Найти все во Всех &amp;Открытых Документах"/>
-				<Item id="1641" name="Найти все в&#x0A;&amp;Текущем Документе"/>
+				<Item id="1635" name="Заменить все во всех открытых &amp;документах"/>
+				<Item id="1636" name="Найти все во всех &amp;открытых документах"/>
+				<Item id="1641" name="Найти все в&#x0A;&amp;текущем документе"/>
 				<Item id="1654" name="Фильтры:"/>
 				<Item id="1655" name="Папка:"/>
 				<Item id="1656" name="Найти все"/>
 				<Item id="1658" name="Во всех подпапках"/>
 				<Item id="1659" name="В скрытых папках"/>
-				<Item id="1660" name="Заменить в Файлах"/>
+				<Item id="1660" name="Заменить в файлах"/>
 				<Item id="1661" name="Папка текущего док."/>
 				<Item id="1662" name="Проект-панель 1"/>
 				<Item id="1663" name="Проект-панель 2"/>
